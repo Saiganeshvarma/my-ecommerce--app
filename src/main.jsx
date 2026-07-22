@@ -6,5 +6,6 @@ import App from './App.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
+    <h2>python is a programming language </h2>
   </StrictMode>,
 )
