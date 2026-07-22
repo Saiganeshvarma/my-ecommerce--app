@@ -4,6 +4,7 @@ const App = () => {
   return (
     <div>
         <h1>App Component</h1>
+        <h2>nani</h2>
     </div>
   )
 }
