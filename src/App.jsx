@@ -8,6 +8,7 @@ const App = () => {
 
 
         <h1>Gayathri Devi</h1>
+        <h1>GodavariWave insitute</h1>
 
     </div>
   )
